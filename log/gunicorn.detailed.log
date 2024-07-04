@@ -1,0 +1,2 @@
+[2024-07-04 20:17:37,333] INFO _log() L97   127.0.0.1 - - [04/Jul/2024 20:17:37] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\aulas\MVP\sitema-cadastro-curriculo\meu_app_api\venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-04 20:17:37,347] INFO _log() L97   127.0.0.1 - - [04/Jul/2024 20:17:37] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\aulas\MVP\sitema-cadastro-curriculo\meu_app_api\venv\Lib\site-packages\werkzeug\_internal.py L97  
